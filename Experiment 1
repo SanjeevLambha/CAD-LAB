@@ -1,0 +1,141 @@
+# AUTO-CAD 2D LAB MANUAL (FINAL – ACADEMIC VERSION)
+Experiment 1: Detail & Assembly Drawing using AutoCAD (2D)
+1. Objective
+To create 2D detailed and assembly drawings of basic machine components using AutoCAD with proper dimensioning and A3 sheet layout.
+
+2. Software & Tools
+AutoCAD (2D)
+Computer system
+Standard drawing sheet (A3)
+3. Drawing Standards (Simplified Academic)
+Units: mm
+Scale: 1:1
+Projection: First Angle
+Line types:
+Object: Continuous thick
+Center: Dashed
+Dimension: Thin
+4. A3 Sheet Layout
+Sheet Size
+420 × 297 mm
+Margins
+Left: 20 mm
+Other sides: 10 mm
+Title Block (Bottom Right)
+
+Include:
+
+Name
+Roll No
+Experiment No
+Scale
+Date
+5. General AutoCAD Procedure
+Open AutoCAD → New Drawing
+Set Units (UNITS) → mm
+Set Limits → 0,0 to 420,297
+Create Layers (Object, Center, Dimension)
+Draw using LINE, CIRCLE, ARC
+Modify using OFFSET, TRIM, FILLET
+Add Dimensions (DIM)
+Add Hatch (for section)
+Plot → A3 → Scale 1:1
+6. COMPONENT DRAWINGS (WITH SIMPLE DIMENSIONS)
+6.1 Plummer Block
+Dimensions (mm)
+Base: 120 × 80
+Height: 80
+Bearing hole: Ø40
+Bolt holes: Ø10 (2 holes)
+Bolt spacing: 80 mm
+Steps
+Draw base rectangle (120 × 80)
+Draw centerline
+Draw semicircle (Ø40) on top
+Add side walls
+Draw bolt holes
+Apply hatch in section view
+Add dimensions
+6.2 Wall Bracket
+Dimensions
+Base: 100 × 60
+Vertical height: 120
+Rib thickness: 10
+Holes: Ø10
+Steps
+Draw vertical plate
+Draw horizontal base
+Add inclined rib
+Create holes
+Dimension
+6.3 Stepped Pulley
+Dimensions
+Outer diameters: Ø100, Ø80, Ø60
+Shaft hole: Ø20
+Width: 60
+Steps
+Draw centerline
+Draw concentric circles
+Offset for steps
+Add keyway
+Dimension diameters
+6.4 Flanged Coupling
+Dimensions
+Flange diameter: Ø120
+Shaft hole: Ø30
+Bolt circle: Ø90
+Bolt holes: Ø10 (4 holes)
+Steps
+Draw flange circle
+Draw shaft hole
+Create bolt circle
+Use ARRAY for 4 bolts
+Add section view
+Dimension
+6.5 Machine Tool Holder (3 Views)
+Dimensions
+Length: 100
+Width: 40
+Height: 60
+Steps
+Draw front view
+Project top view
+Project side view
+Maintain alignment
+Add dimensions
+6.6 Screw Jack
+Dimensions
+Base: 80 × 80
+Height: 150
+Screw diameter: Ø25
+Head: Ø50
+Steps
+Draw base
+Draw vertical screw
+Add head
+Show section
+Add dimensions
+7. Sectional Views
+Use HATCH
+Angle: 45°
+Apply only on cut surfaces
+8. Dimensioning Rules
+Do not repeat dimensions
+Keep dimensions outside object
+Use proper symbols (Ø for diameter)
+9. Precautions
+Maintain scale 1:1
+Use correct layers
+Keep drawing neat
+Avoid overlapping lines
+10. Result
+
+All machine components were successfully drawn using AutoCAD (2D) with proper dimensioning and A3 layout.
+
+11. Viva Questions (Important)
+What is AutoCAD?
+Difference between detail and assembly drawing
+What is first angle projection?
+What is the use of hatch?
+Explain OFFSET and TRIM commands
+What is a sectional view?
