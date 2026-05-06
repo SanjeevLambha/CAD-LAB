@@ -1,4 +1,4 @@
-# AUTO-CAD 2D LAB MANUAL (FINAL – ACADEMIC VERSION)
+# AUTO-CAD 2D LAB MANUAL 
 Experiment 1: Detail & Assembly Drawing using AutoCAD (2D)
 1. Objective
 To create 2D detailed and assembly drawings of basic machine components using AutoCAD with proper dimensioning and A3 sheet layout.
